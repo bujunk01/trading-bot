@@ -1,0 +1,4 @@
+flask
+python-dotenv
+eth-account
+hyperliquid-python-sdk @ git+https://github.com/hyperliquid-dex/hyperliquid-python-sdk.git
